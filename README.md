@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://www.codeedit.app/_next/image?url=%2Fproduct-icon.png&w=256&q=75" width="200" alt="CodeEdit App application icon"><br>
-<a href="https://mac-share-apps.github.io/.github/codeedit-app">
+<a href="https://ysids-apps-hub.github.io/.github/codeedit-app">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open CodeEdit App macOS product page">
 </a><br><br>
 <div align="center">
